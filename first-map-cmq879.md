@@ -14,7 +14,10 @@ I'm including this interactive map where you can scroll out and identify
 where the campus is relative to parts of the city you might have visited
 if you've been to Chicago before. 
 
+<div>
  <embed type="text/html" src="uic.html" width="600" height="600">
+</div>
+ 
 
 I chose UIC for this map post because I studied and worked there for 10 
 years , completing a B.A. in Sociology and M.S. in Epidemiology and 
